@@ -91,4 +91,5 @@ JARVIS was developed as part of the Mini Project II for Semester 5 and was recog
 
 JARVIS aims to provide users with a comprehensive and intuitive interface for performing various tasks efficiently and enjoying entertainment options seamlessly.
 
-![alt text](image.png)
+![Screenshot 2024-03-29 144329](https://github.com/meashishpatel/JARVIS/assets/107139540/7ff66300-d327-4549-9b12-696f668c00b3)
+
