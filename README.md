@@ -71,9 +71,24 @@ To run this program you will require a bunch of API keys. Register your API key 
   - Add the function's definition to **init**.py
   - Add the voice commands through which you want to invoke the function
 
-
-
 It was in my Mini Project - II(Semester-5)
+
 - Project Synopsis - https://drive.google.com/file/d/1P85K2g96QAKk-4wKkhlWhwc_HhlnNe90/view?usp=drive_link
 - Project Report - https://drive.google.com/file/d/1_AFPg2wBzxGqvZ2dalO8to20asuNPYut/view?usp=drive_link
 - Project PPT - https://docs.google.com/presentation/d/1TQComlY8cToiARaw5kKocZVcn6FtAZHJ/edit?usp=sharing&ouid=109226689315072486930&rtpof=true&sd=true
+
+# Project Recognition 🏆
+
+JARVIS was developed as part of the Mini Project II for Semester 5 and was recognized as a runner-up project in the CVMU Hackathon. The project's synopsis, report, and presentation slides are available for further reference.
+
+## Additional Features:
+
+- **Gaming Modules**: Includes popular games like Temple Run and Subway Surfers integrated with body movement controls for an immersive experience.
+
+- **Interactive Games**: Offers narrative-based games such as number guessing and rock-paper-scissors for interactive entertainment.
+
+- **Real-Time Translator**: Facilitates communication by providing real-time translation capabilities.
+
+JARVIS aims to provide users with a comprehensive and intuitive interface for performing various tasks efficiently and enjoying entertainment options seamlessly.
+
+![alt text](image.png)
